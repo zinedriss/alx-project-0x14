@@ -13,6 +13,7 @@
     "@fortawesome/free-brands-svg-icons": "^7.0.0",
     "@fortawesome/react-fontawesome": "^0.2.3",
     "next": "15.4.6",
+    "@ducanh2912/next-pwa": "^10.2.9",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
@@ -25,6 +26,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "webpack": "^5.94.0"
   }
 }
